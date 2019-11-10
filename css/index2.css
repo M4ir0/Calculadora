@@ -1,0 +1,14 @@
+html, body{
+    margin:0;
+    height: 100%;
+    /*background-color: cornsilk;*/
+}
+
+div{
+    background-color: red;
+}
+
+input{
+    width: 25%;
+    height: inherit;
+}
